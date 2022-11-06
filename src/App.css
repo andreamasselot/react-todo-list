@@ -1,0 +1,19 @@
+#root{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.container {
+  display: flex;
+  gap: 10px;
+}
+.container input{
+  padding: 10px;
+}
+.research{
+  width: 200px;
+}
+.done {
+  text-decoration: line-through;
+}
